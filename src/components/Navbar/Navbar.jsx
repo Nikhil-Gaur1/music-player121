@@ -51,10 +51,10 @@ const Navbar = ({
     for(let i=0;i<info?.length;i++){
       let obj={
         id: uuidv4(),
-            name: "÷ (Deluxe)",
-            artist: searchItem,
-            cover:  "/image/Faded.jpg",
-            audio:   "/music/Faded.mp3",
+            name: "Faded",
+            // artist: searchItem,
+            cover:  "/image/faded.jpg",
+            audio:   "/music/faded.mp3",
             active: false,
             color: ['#C4B54E','#DEDFB7']
       }
