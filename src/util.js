@@ -6,8 +6,8 @@ function chillHop() {
             id: uuidv4(),
             name: "Faded",
             artist: "Alan Walker",
-            cover:  "/image/Faded.jpg",
-            audio: "/music/Faded.mp3",
+            cover:  "/image/faded.jpg",
+            audio: "/music/faded.mp3",
             active: false,
             color: ['#C3141A','#BC1C22']
         },
